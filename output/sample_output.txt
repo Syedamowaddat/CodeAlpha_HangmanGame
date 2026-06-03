@@ -1,0 +1,37 @@
+========================================
+   HANGMAN GAME  |  CodeAlpha
+========================================
+
+GAME SAMPLE 1 - PLAYER WINS:
+
+   -----
+   |   |
+   O   |
+  /|\  |
+  /    |
+   =========
+
+  WORD:  g i _ h u b
+  Wrong Letters: ['y', 'j', 'x']
+  Chances Left: 3
+========================================
+  Enter a letter: b
+  Correct!
+  YOU WIN! Word was: github
+  Play again? (y/n): n
+  Thanks for playing!
+  CodeAlpha Internship
+
+========================================
+
+GAME SAMPLE 2 - GAME OVER:
+
+  WORD:  _ _ _ _ _ _
+  Wrong Letters: ['a','b','c','d','e','f']
+  Chances Left: 0
+========================================
+  GAME OVER! Word was: python
+  Play again? (y/n): n
+  Thanks for playing!
+  CodeAlpha Internship
+========================================
