@@ -85,10 +85,12 @@ Words used in this game:
 ## 📁 Project Structure
 <pre>
 CodeAlpha_HangmanGame/
-├── hangman.py       
-├── README.md        
-├── requirements.txt 
-└── .gitignore       
+├── hangman.py
+├── README.md
+├── requirements.txt
+├── .gitignore
+└── output/
+    └── sample_output.txt
 </pre>
 
 ---
